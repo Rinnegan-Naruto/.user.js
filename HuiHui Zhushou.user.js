@@ -508,17 +508,15 @@
 // @include     http://nuomi.com/*
 // ==/UserScript==
 (function(){
-    var version = '3_1';
     var s = document.createElement('script');
-    s.setAttribute('src','https://shared-https.ydstatic.com/gouwuex/ext/script/extension_' + version + '.js?vendor=youdao&browser=firefox');
+    s.setAttribute('src','https://shared-https.ydstatic.com/gouwuex/ext/script/extension_3_1.js?vendor=youdao&browser=firefox');
     s.setAttribute('charset','utf-8');
     document.body.appendChild(s);
-    
-})()
+})();
 
 window.addEventListener('beforescriptexecute',function(e){
   var src = e.target.src;
   if(src.indexOf('g.alicdn.com/alilog/mlog/aplus_v2.js'||'g.alicdn.com/secdev/adblk/index.js') !== -1){
-    e.preventDefault(); 
+    e.preventDefault();
   }
 },false);
