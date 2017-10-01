@@ -1,11 +1,9 @@
 // ==UserScript==
-// @name        zhushouhuihui
-// @name:zh-CN   惠惠购物助手
+// @name        惠惠购物助手
 // @namespace   lhydmr
 // @description 在您网购浏览商品的同时，自动对比其他优质电商同款商品价格，并提供商品价格历史，帮您轻松抄底，聪明网购不吃亏！
-// @description:zh-CN 在您网购浏览商品的同时，自动对比其他优质电商同款商品价格，并提供商品价格历史，帮您轻松抄底，聪明网购不吃亏！
 // @author      轮回眼的鸣人
-// @version     2.3
+// @version     2.4
 // @grant       none
 // @icon        http://b.hiphotos.baidu.com/image/pic/item/6d81800a19d8bc3e88a658898b8ba61ea9d345c2.jpg
 // @include     http://*.jd.com/*
