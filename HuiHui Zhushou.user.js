@@ -6,9 +6,12 @@
 // @version     2.4
 // @grant       none
 // @icon        http://b.hiphotos.baidu.com/image/pic/item/6d81800a19d8bc3e88a658898b8ba61ea9d345c2.jpg
-// @include     https?://*.jd.com/*
-// @include     https?://*.taobao.com/*
-// @include     https?://*.tmall.com/*
+// @include     http://*.jd.com/*
+// @include     http://*.taobao.com/*
+// @include     http://*.tmall.com/*
+// @include     https://*.jd.com/*
+// @include     https://*.taobao.com/*
+// @include     https://*.tmall.com/*
 // @include     https://*.amazon.com/*
 // @include     http://*.001town.com/*
 // @include     http://*.01goo.com/*
