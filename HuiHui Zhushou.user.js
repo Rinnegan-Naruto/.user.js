@@ -6,10 +6,9 @@
 // @version     2.4
 // @grant       none
 // @icon        http://b.hiphotos.baidu.com/image/pic/item/6d81800a19d8bc3e88a658898b8ba61ea9d345c2.jpg
-// @include     http://*.jd.com/*
-// @include     https://*.jd.com/*
-// @include     https://*.taobao.com/*
-// @include     https://*.tmall.com/*
+// @include     https?://*.jd.com/*
+// @include     https?://*.taobao.com/*
+// @include     https?://*.tmall.com/*
 // @include     https://*.amazon.com/*
 // @include     http://*.001town.com/*
 // @include     http://*.01goo.com/*
@@ -342,7 +341,6 @@
 // @include     http://*.suning.com/*
 // @include     http://*.sz-esun.com/*
 // @include     http://*.tao3c.com/*
-// @include     http://item.taobao.com/*
 // @include     http://*.taoxie.cn/*
 // @include     http://*.the365.com/*
 // @include     http://*.thinkshop.cn/*
@@ -350,7 +348,6 @@
 // @include     http://*.tiantian.com/*
 // @include     http://*.junph.com/*
 // @include     http://*.tieyou.com/*
-// @include     http://detail.tmall.com/*
 // @include     http://*.togj.com/*
 // @include     http://*.tooogooo.com/*
 // @include     http://*.toy90.com/*
